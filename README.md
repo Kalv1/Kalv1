@@ -1,7 +1,7 @@
 ### Hi there 👋
 ---
 - ❤️ My favorite framework / ui lib are VueJS, NuxtJS, TailwindCSS, Pinia, Ant Design
-- 💼 I'm working as front-end developer at @axians
+- 💼 I'm working as front-end developer at @inetum
 - 📍 I live in Nancy, France
 - 👄 I speak french (native language), english and also a little bit spain
 - ☎️ You can contact me on my [LK](https://www.linkedin.com/in/calvin-lambert/) 
